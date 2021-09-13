@@ -1,0 +1,152 @@
+@media (min-width:992px) and (max-width:1199px){
+    .ban-text h1 {
+        font-size: 48px;
+    }
+    .item-img h1 {
+        font-size: 28px;
+    }
+    .men h1 {
+        top: 75%;
+        font-size: 32px;
+    }
+    .out h1 {
+        letter-spacing: 2px;
+    }
+}
+@media (min-width:768px) and (max-width:991px){
+    .ban-text h1 {
+        font-size: 48px;
+    }
+    .out h1 {
+        font-size: 32px;
+    }
+    .out p {
+        font-size: 14px;
+    }
+    .wwr h1 {
+        margin: 18px 0;
+    }
+    .wwr-img img {
+        margin-top: 30%;
+    }
+    .item-img h1 {
+        font-size: 20px;
+    }
+    .language-it h1 {
+        font-size: 20px;
+    }
+    .language-it p {
+        font-size: 14px;
+    }
+    .item-men p {
+        font-size: 14px;
+    }
+    .men h1 {
+        top: 73%;
+        font-size: 25px;
+    }
+    .footer-text p {
+        font-size: 14px;
+    }
+}
+@media (min-width:0px) and (max-width:767px){
+    .ban-text h1 {
+        font-size: 54px;
+    }
+    .wwr-img {
+        text-align: center;
+        margin-top: 40px;
+    }
+    .item-men p {
+        margin-top: 20px;
+    }
+    .item-img img {
+        margin-top: 30px;
+    }
+    .out .see-btn {
+        margin: 10px 0;
+    }
+    .language-it {
+        margin-bottom: 40px;
+    }
+}
+@media (min-width:0px) and (max-width:575px){
+    
+    .main-menu ul {
+        text-align: center;
+    }
+    .item-img {
+        margin-bottom: 40px;
+    }
+    .out .see-btn {
+        margin-bottom: 20px;
+    }
+    .item-men {
+        text-align: center;
+    }
+    .item-men p {
+        margin: 25px 0;
+    }
+    .wwr-img img {
+        margin-top: 20px;
+    }
+    .our-retomys {
+        text-align: center;
+    }
+    .out p {
+        margin-top: 25px;
+    }
+    .language-it h1 {
+        text-align: center;
+    }
+    .language-it .read-btn {
+        display: flex;
+        justify-content: center;
+    }
+    .language-it .read-btn a::after {
+        left: 50%;
+        transform: translate(-50%);
+    }
+    .language-it {
+        margin-bottom: 50px;
+    }
+    .men h1 {
+        text-align: left;
+        font-size: 42px;
+        top: 80%;
+    }
+    .item-img h1 {
+        font-size: 28px;
+    }
+}
+@media (min-width:0px) and (max-width:425px){
+    .ban-text h1 {
+        font-size: 42px;
+    }
+    .men h1{
+
+font-size: 40px;
+
+top: 76%;
+
+}
+}
+@media (min-width:0px) and (max-width:375px){
+    .ban-text h1 {
+        font-size: 31px;
+    }
+    .men h1{
+        
+font-size: 35px;
+    }
+}
+@media (min-width:0px) and (max-width:320px){
+    .item-img h1 {
+        font-size: 28px;
+    }
+    .men h1{
+        
+font-size: 30px;
+        
+}
+}
